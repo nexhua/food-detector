@@ -1,0 +1,4 @@
+/food-101
+.pyc
+src/__pycache__/
+src/models/
